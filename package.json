@@ -15,12 +15,12 @@
   "dependencies": {
     "body-parser": "^2.0.2",
     "express": "latest",
-    "multer": "1.4.4-lts.1",  // Updated to the LTS version for CVE fix
+    "multer": "1.4.4-lts.1",  
     "node-telegram-bot-api": "latest",
     "uuid": "^11.0.3",
     "ws": "latest",
     "axios": "^1.7.9",
     "node-fetch": "^2.6.7",
-    "request": "^2.34"  // Added to fix the unmet peer dependency warning
+    "request": "^2.34"  
   }
 }
