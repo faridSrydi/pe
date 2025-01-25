@@ -1,5 +1,5 @@
 module.exports = {
-  token: "YOUR_TELEGRAM_BOT_TOKEN",
-  id:"Enter Your Id",
+  token: "7739218961:AAGMdFViEIvqR-F7UvGcL-aBUcz8YnVTv5U",
+  id:"6528144543",
   address:"Enter your url"
 };
